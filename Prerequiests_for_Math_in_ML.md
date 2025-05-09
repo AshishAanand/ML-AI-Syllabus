@@ -154,6 +154,3 @@ Mathematics helps you:
 ✅ Start applying math in Python (NumPy, Matplotlib)  
 
 ---
-
-> 💬 Feel free to ask Jarvis for weekly goals, progress tracking, or visual tools anytime. Let's build your AI future together!
-
